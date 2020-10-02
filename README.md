@@ -1,2 +1,2 @@
 # Mean Koalas organisation.
-# Project for FMI PU Software Processes
+# Project for FMI PU Software Processes.
